@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "858265964305",
+    "project_id": "hakim-market",
+    "storage_bucket": "hakim-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858265964305:android:3f862fa4cd2960930cc6b0",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858265964305-lb5ablunv38v71mg632hr842l056epcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrniJWscJnfIMAlshLsMTUfA9yR3u9Yhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858265964305-lb5ablunv38v71mg632hr842l056epcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858265964305:android:88464e5c2d567ee10cc6b0",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858265964305-lb5ablunv38v71mg632hr842l056epcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrniJWscJnfIMAlshLsMTUfA9yR3u9Yhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858265964305-lb5ablunv38v71mg632hr842l056epcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
